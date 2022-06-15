@@ -32,4 +32,4 @@ make run
 - `size` é o tamanho da imagem em pixels. Se você colocar uma foto com tamanhos diferentes, o código redimensiona.
 - `threshold` é o limite de corte para binarizar o brilho de 1 byte (0 a 255).
 - `current_path` deve ser o caminho da pasta de trabalho atual (o modo usual é os.getcwd())
-- #### Essas opções estão no arquivo [main.py](https://github.com/guilherme-souza-lima/Hopfield_ifsp/blob/master/main.py#L14).
+- #### Essas opções estão no arquivo [config.py](https://github.com/guilherme-souza-lima/Hopfield_ifsp/blob/master/config.py).
