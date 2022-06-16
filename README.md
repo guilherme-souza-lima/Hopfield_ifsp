@@ -1,6 +1,13 @@
 Hopfield Network IA
 ==============================
+# :rotating_light: Trabalho IFSP - Campus Catanduva-SP #
 
+## :busts_in_silhouette: Autores ##
+[Guilherme Simões](https://github.com/guilherme-souza-lima):technologist:
+
+[Guilherme Bueno]():technologist:
+
+[Gabriel Gomes Moreira]():technologist:
 ## :art: Resumo ##
 Este código Python é apenas uma implementação simples de Hopfield Network discreta (http://en.wikipedia.org/wiki/Hopfield_network). A Discrete Hopfield Network pode aprender/memorizar padrões e lembrar/recuperar os padrões quando a rede alimenta aqueles com ruídos.
 
